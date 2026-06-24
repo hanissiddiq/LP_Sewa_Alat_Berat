@@ -272,6 +272,10 @@ Fitur yang dapat ditambahkan pada versi berikutnya:
 * Tracking Unit Alat Berat
 
 ---
+## Preview Screen
+<img width="330" height="1600" alt="screen" src="https://github.com/user-attachments/assets/e7624120-0406-4749-8a71-0f1bb0c16e64" />
+---
+
 
 ## 📄 License
 
